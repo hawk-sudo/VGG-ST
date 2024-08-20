@@ -1,4 +1,4 @@
-name: rops-gpu
+name: datapreprocess
 channels:
   - conda-forge
   - defaults
@@ -293,4 +293,4 @@ dependencies:
     - werkzeug==2.3.6
     - wheel==0.41.2
     - wrapt==1.15.0
-prefix: /home/xil620/.conda/envs/rops-gpu
+prefix: /home/xil620/.conda/envs/datapreprocess
