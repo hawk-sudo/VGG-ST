@@ -2,14 +2,17 @@
 <p align="justify">
 VGG-ST: A VGG-Swin Transformer-Based Model for RW-ROP Disease Diagnosis.
 </p>
-#### -- Project Status: [Completed]
+Project Status: [Completed]
 
 ### Objective
 <p align="justify">
 This project aims to detect Referral-Warranted Retinopathy of Prematurity (RW-ROP) using retinal images.
 </p>
+
 ### Partner
+<p align="justify">
 Xinwei Luo, Songlin Zhao, Yong Chen, Gui-shuang Ying, Lifang He
+</p>
 
 ### Methods Used
 * Deep Learning
